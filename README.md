@@ -4,9 +4,14 @@ This project involves migrating applications, virtual machines, and associated r
 
 ## Key Phases in the Migration Process:
 Onboard: Select and prepare the source VM for migration.
+
 Replication: Replicate data from Azure to GCP continuously.
+
 Set VM Target Details: Configure the VM settings on GCP (instance type, network, etc.).
+
 Test-Clone: Optionally, create a clone of the VM for testing purposes on GCP.
+
 Cut-Over: Migrate the source VM to GCP by stopping the source VM, completing a final replication, and creating a production instance on GCP.
+
 Finalize: Perform final cleanup after successful migration.
 ![image](https://github.com/user-attachments/assets/c73b8367-ec4b-455d-8188-1fa2d851c418)
