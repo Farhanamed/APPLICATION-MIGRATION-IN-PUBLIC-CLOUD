@@ -155,11 +155,9 @@ We will Select the VM’s and click on EDIT TARGET DETAILS so that we can perfor
 
 ## 4. Post-Migration:
 **4.1) Verify the migration by connecting to the virtual machine via Remote Desktop Connection (RDC).**
+  ![image](https://github.com/user-attachments/assets/50c1e141-7a2b-440e-9f1c-8217c1ae14ce)
+  ![image](https://github.com/user-attachments/assets/001ab4f3-6105-4922-a0c5-e213687d75f7)
 
-        ![image](https://github.com/user-attachments/assets/8e0390fa-30ff-4066-809d-829dbfb114f3)
-
-        ![image](https://github.com/user-attachments/assets/1631fc0c-050c-4106-8ca1-e77e435e7b63)
-       
 
 **4.2) Ensure all data is intact and accessible in the new VM on GCP.**
        ![image](https://github.com/user-attachments/assets/f1284429-3876-4b06-a3c5-33acabc3d88d)
@@ -168,6 +166,7 @@ We will Select the VM’s and click on EDIT TARGET DETAILS so that we can perfor
          **As all of our data was accessible in the migrated VM in GCP, we published a website in source VM to further confirm it. To access the published website, connect to the VM via Remote Desktop Connection (RDC) and type localhost in any local browser.**
 
                   ![image](https://github.com/user-attachments/assets/de0aa4f8-ecc4-4d1f-aa29-39dabfa325f9)
+                  
                    	**We can therefore conclude that the application's migration from Azure to Google Cloud Platform was successful.**
 
 
