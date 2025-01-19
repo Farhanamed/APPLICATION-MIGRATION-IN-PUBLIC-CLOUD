@@ -19,21 +19,30 @@ This project involves migrating applications, virtual machines, and associated r
 
 ## Steps:
   # 1. Set Up Google Cloud Platform Free Trial Account:
-   Navigate to Google Cloud.
+   **Navigate to Google Cloud.**
    ![image](https://github.com/user-attachments/assets/357dfcfc-abf4-45aa-b962-8e8b988484c7)
 
-  Start the free trial and set up payment details for verification.
+  **Start the free trial and set up payment details for verification.** 
   ![image](https://github.com/user-attachments/assets/1f94cdc9-d41c-4f92-b99d-6e149f136785)
+  
   ![image](https://github.com/user-attachments/assets/27af37f6-8cda-49bf-90ce-5d263bc46f00)
+  
   ![image](https://github.com/user-attachments/assets/50991c1c-ddc2-4e62-ad31-705de43fbf10)
 
-  Install and configure the Google Cloud CLI for managing cloud services.
+  **Install and configure the Google Cloud CLI for managing cloud services.**
   ![image](https://github.com/user-attachments/assets/2e7c5803-b4cb-4f33-b14f-0ef05cc3678f)
+  
   ![image](https://github.com/user-attachments/assets/be2ec663-73a9-435b-a8e4-bda3434b7b8b)
+  
   ![image](https://github.com/user-attachments/assets/4f11f73b-0585-46e9-af74-1ce7f5003269)
+  
   ![image](https://github.com/user-attachments/assets/f48e77d8-fbc2-4806-8513-44de58fe1a7c)
+  
   ![image](https://github.com/user-attachments/assets/78388009-6998-431e-a248-57f39f74efe7)
+  
   ![image](https://github.com/user-attachments/assets/3ebcc87a-c283-4655-adfd-94629b448d7c)
+
+  
 
   
 
