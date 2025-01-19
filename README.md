@@ -166,8 +166,8 @@ We will Select the VM’s and click on EDIT TARGET DETAILS so that we can perfor
 
 **4.3) Confirm the successful application migration by testing services like published websites.**
          **As all of our data was accessible in the migrated VM in GCP, we published a website in source VM to further confirm it. To access the published website, connect to the VM via Remote Desktop Connection (RDC) and type localhost in any local browser.**
-         
-         ![image](https://github.com/user-attachments/assets/ab65b240-a1e6-45d8-a5fc-726aaa07428e)
+         ![image](https://github.com/user-attachments/assets/8c1de4e4-c671-4286-aa1c-7df6db5582db)
+
 
 
             	**We can therefore conclude that the application's migration from Azure to Google Cloud Platform was successful.**
