@@ -110,7 +110,8 @@ This project involves migrating applications, virtual machines, and associated r
 
 ![image](https://github.com/user-attachments/assets/aeb0384a-ed90-408d-a204-45ac641ec980)
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/55140ac7-cba6-4814-a362-751bfc8b8374)
+
 
 
 
