@@ -19,17 +19,17 @@ This project involves migrating applications, virtual machines, and associated r
 
 ## Steps:
   ## 1. Set Up Google Cloud Platform Free Trial Account:
-   **Navigate to Google Cloud.**
+   **1.1) Navigate to Google Cloud.**
    ![image](https://github.com/user-attachments/assets/357dfcfc-abf4-45aa-b962-8e8b988484c7)
 
-  **Start the free trial and set up payment details for verification.** 
+  **1.2) Start the free trial and set up payment details for verification.** 
   ![image](https://github.com/user-attachments/assets/1f94cdc9-d41c-4f92-b99d-6e149f136785)
   
   ![image](https://github.com/user-attachments/assets/27af37f6-8cda-49bf-90ce-5d263bc46f00)
   
   ![image](https://github.com/user-attachments/assets/50991c1c-ddc2-4e62-ad31-705de43fbf10)
 
-  **Install and configure the Google Cloud CLI for managing cloud services.**
+  **1.3) Install and configure the Google Cloud CLI for managing cloud services.**
   ![image](https://github.com/user-attachments/assets/2e7c5803-b4cb-4f33-b14f-0ef05cc3678f)
   
   ![image](https://github.com/user-attachments/assets/be2ec663-73a9-435b-a8e4-bda3434b7b8b)
@@ -43,7 +43,7 @@ This project involves migrating applications, virtual machines, and associated r
   ![image](https://github.com/user-attachments/assets/3ebcc87a-c283-4655-adfd-94629b448d7c)
 
 ## 2. Create Azure Source:
-  **Register an app in Azure for the migration process**
+  **2.1) Register an app in Azure for the migration process**
   ![image](https://github.com/user-attachments/assets/bd62e346-9fcd-49f9-b5ef-4aff68963b59)
   
   ![image](https://github.com/user-attachments/assets/4b879e58-e0c1-40c6-ae06-932cd2d1a4cc)
@@ -52,12 +52,12 @@ This project involves migrating applications, virtual machines, and associated r
 
   ![image](https://github.com/user-attachments/assets/4ce18ecd-b96c-451b-a72a-f4d27626d5b6)
   
-  **Generate client secret credentials to grant necessary permissions for migration**
+  **2.2) Generate client secret credentials to grant necessary permissions for migration**
    ![image](https://github.com/user-attachments/assets/4c5bc8c4-06e6-45a8-bdc7-7243a47c2c59)
 
   ![image](https://github.com/user-attachments/assets/dfcc962c-0e9d-42e0-81f7-2d267ed6e8f4)
 
-  **Create a custom role in Azure and assign the required permissions**
+  **2.3) Create a custom role in Azure and assign the required permissions**
   ![image](https://github.com/user-attachments/assets/1efbff24-beab-49e4-aeb5-f42f022fde55)
   
   
@@ -114,10 +114,10 @@ This project involves migrating applications, virtual machines, and associated r
 
 
 ## 3. Migration on Google Cloud:
-**Access Google Cloud Console, navigate to Compute Engine, and initiate the migration process.**
+**3.1) Access Google Cloud Console, navigate to Compute Engine, and initiate the migration process.**
 ![image](https://github.com/user-attachments/assets/c7e5161a-fc6b-4b82-a8bf-6bb667dc3dda)
 
-**Add Azure as the source cloud.**
+**3.2) Add Azure as the source cloud.**
 ![image](https://github.com/user-attachments/assets/bd8833dc-6666-433a-ba6b-2c52e1c12cc0)
 
 ![image](https://github.com/user-attachments/assets/b406e0d1-7209-4275-8300-89b8243f7232)
@@ -127,11 +127,11 @@ This project involves migrating applications, virtual machines, and associated r
 In 10 to 15 minutes, the source virtual machines will be added, and their status will show activated.
 ![image](https://github.com/user-attachments/assets/da0eedf9-ea19-4d8a-ad47-ac4982340eff)
 
-**Select the virtual machines to migrate and initiate the replication process.**
+**3.3) Select the virtual machines to migrate and initiate the replication process.**
 ![image](https://github.com/user-attachments/assets/4a3ffcc2-5138-4587-9f1f-b39c4b8de444)
 ![image](https://github.com/user-attachments/assets/da8c2e09-d66f-48a9-88cd-7e9d803cc466)
 
-**Set target details for Compute Engine.**
+**3.4) Set target details for Compute Engine.**
 We will Select the VM’s and click on EDIT TARGET DETAILS so that we can perform TEST-CLONE or CUT-OVER.
 ![image](https://github.com/user-attachments/assets/0e973d5e-b032-4abe-8dc6-a1c34156d095)
 
@@ -142,7 +142,7 @@ We will Select the VM’s and click on EDIT TARGET DETAILS so that we can perfor
 ![image](https://github.com/user-attachments/assets/061f3e12-465f-4a16-835e-6e0b83e68f79)
 
 
-**Perform "Test-Clone" or "Cut-Over" as per the migration strategy.**
+**3.5) Perform "Test-Clone" or "Cut-Over" as per the migration strategy.**
 
 ![image](https://github.com/user-attachments/assets/9ca2b0b5-f7ac-4542-8cf9-68d15e3a1247)
 
@@ -151,6 +151,8 @@ We will Select the VM’s and click on EDIT TARGET DETAILS so that we can perfor
 ![image](https://github.com/user-attachments/assets/13754034-caf7-460f-97ff-85e8a4b2dd0c)
 
 ![image](https://github.com/user-attachments/assets/0093510d-3699-450d-8355-afda85adac0d)
+
+
 
 
 
