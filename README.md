@@ -31,10 +31,15 @@ This project involves migrating applications, virtual machines, and associated r
 
   **Install and configure the Google Cloud CLI for managing cloud services.**
   ![image](https://github.com/user-attachments/assets/2e7c5803-b4cb-4f33-b14f-0ef05cc3678f)
+  
   ![image](https://github.com/user-attachments/assets/be2ec663-73a9-435b-a8e4-bda3434b7b8b)
+  
   ![image](https://github.com/user-attachments/assets/4f11f73b-0585-46e9-af74-1ce7f5003269)
+  
   ![paint](https://github.com/user-attachments/assets/f8ce7235-092b-4d6b-bba1-eef09b36343f)
+  
   ![image](https://github.com/user-attachments/assets/78388009-6998-431e-a248-57f39f74efe7)
+  
   ![image](https://github.com/user-attachments/assets/3ebcc87a-c283-4655-adfd-94629b448d7c)
 
   
