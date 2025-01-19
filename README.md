@@ -1,4 +1,8 @@
+
 #  Migration of Applications from Azure to Google Cloud Platform (GCP)
+![image](https://github.com/user-attachments/assets/735f1677-593e-4943-bc20-071f47d33151)
+
+
 ## Overview:
 This project involves migrating applications, virtual machines, and associated resources from Microsoft Azure to Google Cloud Platform (GCP). The migration aims to enhance performance, reduce costs, and leverage GCP’s advanced capabilities, including better data analytics, machine learning, and improved infrastructure.
 
