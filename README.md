@@ -102,6 +102,21 @@ This project involves migrating applications, virtual machines, and associated r
 
 ![image](https://github.com/user-attachments/assets/66b8e426-052d-4514-bcdb-14291744061f)
 
+![image](https://github.com/user-attachments/assets/d2cadbc4-0a5f-492d-96d6-63828ba4e932)
+
+![image](https://github.com/user-attachments/assets/f097150d-4bd2-4260-b0df-9ac16a6ce6c8)
+
+![image](https://github.com/user-attachments/assets/c2304797-75ec-4694-b435-5eccd8a0fa29)
+
+![image](https://github.com/user-attachments/assets/aeb0384a-ed90-408d-a204-45ac641ec980)
+
+![Uploading image.png…]()
+
+
+
+
+
+
 
 
 
