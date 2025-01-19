@@ -175,7 +175,8 @@ We will Select the VM’s and click on EDIT TARGET DETAILS so that we can perfor
          
   **We can therefore conclude that the application's migration from Azure to Google Cloud Platform was successful.**
 
-
+## Conclusion:
+**The migration from Azure to GCP was completed successfully, resulting in improved performance, cost optimization, and access to advanced GCP tools. The migration process was seamless, with minimal disruptions to operations, positioning the organization to better capitalize on future opportunities.**
 
 
 
