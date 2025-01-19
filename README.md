@@ -133,6 +133,7 @@ In 10 to 15 minutes, the source virtual machines will be added, and their status
 
 **3.4) Set target details for Compute Engine.**
 We will Select the VM’s and click on EDIT TARGET DETAILS so that we can perform TEST-CLONE or CUT-OVER.
+
 ![image](https://github.com/user-attachments/assets/0e973d5e-b032-4abe-8dc6-a1c34156d095)
 
 ![image](https://github.com/user-attachments/assets/5423ada3-6d9c-43c6-906a-d9bfc7b3599f)
